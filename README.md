@@ -86,9 +86,13 @@ The cases for this year's Summer school will be [revieled here...](cases.md) at 
 ## Programme
 (subject to change)  
 
+**2022-08-26 Fundamentals**  
+before 18:30 Accomodation   
+18:30 - 19:30 Organizational issues
+19:30 - 21:00 Networking exercise
+
 **2022-08-27 Fundamentals**  
-09:30 - 10:00 Organizational issues    
-10:00 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
+09:30 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
 14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Boyan_Markov/readme.md)-->  
 17:00 - 19:30 Workshop: Explaining the cases    
   
