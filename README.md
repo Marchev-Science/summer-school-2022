@@ -24,7 +24,7 @@
 ## Accomodation
 **Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for . Everyone should arrive by 18:30, on 25 August, Friday, at the main entrance of the facility.   
 
-**Accommodation**: The students are accommodated in pairs / threes / fours in a room in the Monestery. Accomodation costs BGN 20 per bad per night. Out of which **70% is covered by the organizers**.   
+**Accommodation**: The students are accommodated in pairs / threes / fours in a room in the Monestery. Accomodation costs BGN 20 per bad per night. Out of which **70% is covered by the organizers**. The layout of the rooms will be set by the organizers and can not be changed.   
 
 **Meals**: Meals are up to participants to organize on their own. There are at least 3 major restaurants and a grocery store in the near vicinity.    
 
@@ -68,13 +68,13 @@ Apart from concentrating during the online classes, the aproved participants sho
 * Angel Marchev Sr. (angel_marchev@yahoo.co.uk)
 * Alexander Efremov (aefremov@gmail.com)
 * Atanas Atanassov (atanassov@econometrica.bg)
-* Boryana Bogdanova (bpelova@gmail.com)
-<!--* Demir Tonchev (tonchev.demir@gmail.com)-->
+* Boryana Bogdanova (bpelova@gmail.com)   
+<!--* Demir Tonchev (tonchev.demir@gmail.com)-->   
 * Kaloyan Haralampiev (k_haralampiev@hotmail.com)
-<!--* Martin Boyanov (mboyanov@gmail.com)
+<!--* Martin Boyanov (mboyanov@gmail.com)   
 * Metodi Nikolov (metodi.nikolov@gmail.com)
 * Mihail Motzev (mihail.motzev@wallawalla.edu)
-* Milen Chechev (milen.chechev@gmail.com)-->
+* Milen Chechev (milen.chechev@gmail.com)-->   
 * Pavel Nikolov (pavelnnikolov@gmail.com)
 * Petar Nikolov (petarnikolov1989@gmail.com)
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)
@@ -131,8 +131,8 @@ The cases for this year's Summer school will be [revieled here...](cases.md) at 
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-03 Applications**  
-09:30 - 13:00 TBD
-14:00 - 17:00 TBD
+09:30 - 13:00 TBD    
+14:00 - 17:00 TBD     
 <!--12:00 - 13:00 Yassen Kiprov - Google cloud user friendly ML resources [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Yasen_Kiprov/readme.md)  
 14:00 - 16:00 Workshop: Demir Tonchev - Object oriented data pre-processing with sklearn [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/DemirTonchev/DSS21)  
 16:30 - 17:30 Metodi Nikolov - Speeding up Python with Rust [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/MetodiNikolov/SummerSchool2021)-->  
