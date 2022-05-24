@@ -24,7 +24,7 @@
 ## Accomodation
 **Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for . Everyone should arrive by 18:30, on 25 August, Friday, at the main entrance of the facility.   
 
-**Accommodation**: The students are accommodated in pairs / threes / fours in a room in the Monestery. Accomodation costs BGN 20 per bad per night. Out of which **70% is covered by the organizers**. The layout of the rooms will be set by the organizers and can not be changed.   
+**Accommodation**: The students are accommodated in pairs / threes / fours in a room in the Monestery. Accomodation costs BGN 20 per bed per night. Out of which **70% is covered by the organizers**. The layout of the rooms will be set by the organizers and can not be changed.   
 
 **Meals**: Meals are up to participants to organize on their own. There are at least 3 major restaurants and a grocery store in the near vicinity.    
 
@@ -34,7 +34,7 @@
 14:00 - 17:00 Workshops in the classroom
 After 17:00 working on team assignment*   
 21:00 Monastery doors close   
-* The classroom could be used untill late, but no loud noises permitted.
+*The classroom could be used untill late, but no loud noises permitted.
 
 ## Certification
 **Cases**: As part of the Summer school the participants would have to solve and present a case, out of several options, which will be given on the first day. <!--[See the cases here...](cases.md)-->
@@ -69,16 +69,19 @@ Apart from concentrating during the online classes, the aproved participants sho
 * Alexander Efremov (aefremov@gmail.com)
 * Atanas Atanassov (atanassov@econometrica.bg)
 * Boryana Bogdanova (bpelova@gmail.com)   
-<!--* Demir Tonchev (tonchev.demir@gmail.com)-->   
 * Kaloyan Haralampiev (k_haralampiev@hotmail.com)
-<!--* Martin Boyanov (mboyanov@gmail.com)   
-* Metodi Nikolov (metodi.nikolov@gmail.com)
-* Mihail Motzev (mihail.motzev@wallawalla.edu)
-* Milen Chechev (milen.chechev@gmail.com)-->   
 * Pavel Nikolov (pavelnnikolov@gmail.com)
 * Petar Nikolov (petarnikolov1989@gmail.com)
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)
 * Yasen Kiprov (yasen.kiprov@gmail.com)
+<!--
+* Demir Tonchev (tonchev.demir@gmail.com)
+* Martin Boyanov (mboyanov@gmail.com)   
+* Metodi Nikolov (metodi.nikolov@gmail.com)
+* Mihail Motzev (mihail.motzev@wallawalla.edu)
+* Milen Chechev (milen.chechev@gmail.com)
+-->   
+
 
 **Archives**:  
 [Summer School on Research Methods 2020](https://marchev-science.github.io/Summer-school-on-research-methods-2020/)  
