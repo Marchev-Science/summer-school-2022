@@ -86,7 +86,7 @@ The cases for this year's Summer school will be [revieled here...](cases.md) at 
 ## Programme
 (subject to change)  
 
-**2022-08-26 Fundamentals**  
+**2022-08-26 Openning**  
 before 18:30 Accomodation   
 18:30 - 19:30 Organizational issues
 19:30 - 21:00 Networking exercise
