@@ -143,5 +143,5 @@ The cases for this year's Summer school will be [revieled here...](cases.md) at 
 <!--09:30 - 10:30 Boryana Bogdanova - Human role in AI [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)  
 10:30 - 11:30 Martin Boyanov - Implicit Data: Video Game Recommendations [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Martin_Boyanov/readme.md)      
 12:00 - 13:00 Milen Chechev - ML Lifecycle and productionization [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Milen_Chechev/readme.md)-->    
-14:00 - 17:00 Conference - presentation of the solutions to the case assignments [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)  
+14:00 - 17:00 Conference - presentation of the solutions to the case assignments <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
 16:00 - 16:30 Closing ceremony  
