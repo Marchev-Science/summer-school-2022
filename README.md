@@ -66,8 +66,9 @@ Apart from concentrating during the online classes, the aproved participants sho
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)
 * Yasen Kiprov (yasen.kiprov@gmail.com)
 
-**Archives**: [Summer School on Research Methods 2020](https://marchev-science.github.io/Summer-school-on-research-methods-2020/)
-[Summer School on Modeling and Complex Systems 2021](https://marchev-science.github.io/Summer-school-2021/)
+**Archives**:  
+[Summer School on Research Methods 2020](https://marchev-science.github.io/Summer-school-on-research-methods-2020/)  
+[Summer School on Modeling and Complex Systems 2021](https://marchev-science.github.io/Summer-school-2021/)  
 
 ## Cases
 The cases for this year's Summer school will be [revieled here...](cases.md) at the start of the Summer school. 
