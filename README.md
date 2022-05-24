@@ -31,10 +31,10 @@
 **Daily schedule**:  
 09:30 - 13:00 Lectures in the classroom  
 13:00 - 14:00 Lunch brake  
-14:00 - 17:00 Workshops in the classroom
-After 17:00 working on team assignment*   
+14:00 - 17:00 Workshops in the classroom   
+After 17:00 working on team assignment'   
 21:00 Monastery doors close   
-*The classroom could be used untill late, but no loud noises permitted.
+'The classroom could be used untill late, but no loud noises permitted.
 
 ## Certification
 **Cases**: As part of the Summer school the participants would have to solve and present a case, out of several options, which will be given on the first day. <!--[See the cases here...](cases.md)-->
