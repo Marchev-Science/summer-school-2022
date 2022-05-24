@@ -3,7 +3,7 @@
 ## Application
 **Acknowledgement**: This Summer school is partially funded by Science and research Fund at Sofia University (contract 80-10-126-16.05.2022). 
 
-**Location**: Bachkovo Monastery, Plovdiv Region, Bulgaria
+**Location**: [Bachkovo Monastery](http://www.bachkovskimanastir.com/bg/), Plovdiv Region, Bulgaria
 
 **Time**: August 26 - September 04, 2022 
 
@@ -21,8 +21,22 @@
 
 **Concept**: Intensive training in methods (not so much applications) through lectures, workshops and team work on projects. 
 
-## Certification
+## Accomodation
+**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for . Everyone should arrive by 18:30, on 25 August, Friday, at the main entrance of the facility.   
 
+**Accommodation**: The students are accommodated in pairs / threes / fours in a room in the Monestery. Accomodation costs BGN 20 per bad per night. Out of which **70% is covered by the organizers**.   
+
+**Meals**: Meals are up to participants to organize on their own. There are at least 3 major restaurants and a grocery store in the near vicinity.    
+
+**Daily schedule**:  
+09:30 - 13:00 Lectures in the classroom  
+13:00 - 14:00 Lunch brake  
+14:00 - 17:00 Workshops in the classroom
+After 17:00 working on team assignment*   
+21:00 Monastery doors close   
+* The classroom could be used untill late, but no loud noises permitted.
+
+## Certification
 **Cases**: As part of the Summer school the participants would have to solve and present a case, out of several options, which will be given on the first day. <!--[See the cases here...](cases.md)-->
 
 **Certification**: Certificates issued by Faculty of Economics and Business Administration will be issued to those who successfully pass the Summer school in a special cerempny after the end of the Summer school. The requirements are:  
@@ -78,42 +92,42 @@ The cases for this year's Summer school will be [revieled here...](cases.md) at 
 
 **2022-08-27 Fundamentals**  
 09:30 - 10:00 Organizational issues    
-10:00 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)  
-14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Boyan_Markov/readme.md)  
+10:00 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
+14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Boyan_Markov/readme.md)-->  
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2022-08-28 Fundamentals**  
-09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)  
-14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to R & R Studio [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)  
+09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
+14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to R & R Studio <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-08-29 Fundamentals**  
-09:30 - 10:30 Demir Tonchev - Introduction to probability [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Demir_Tonchev/readme.md)  
-11:00 - 13:00 Kaloyan Haralampiev - Bayesian paradigm [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Kaloyan_Haralampiev/readme.md) 
-14:00 - 17:00 Workshop: Sergey Vichev - SQL Fundamentals [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Sergey_Vichev/readme.md)  
+09:30 - 10:30 Demir Tonchev - Introduction to probability <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Demir_Tonchev/readme.md)-->  
+11:00 - 13:00 Kaloyan Haralampiev - Bayesian paradigm <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Kaloyan_Haralampiev/readme.md)--> 
+14:00 - 17:00 Workshop: Sergey Vichev - SQL Fundamentals <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Sergey_Vichev/readme.md)-->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-08-30 Fundamentals**  
-09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)   
-14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Kaloyan_Haralampiev/readme.md)  
+09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)-->   
+14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Kaloyan_Haralampiev/readme.md)-->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-08-31 Machine Learning concepts**  
-09:30 - 11:00 Alexander Efremov - Introduction to Numerical Optimization [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)
-11:30 - 13:00 Workshop: Alexander Efremov - Determination of model structure [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)   
+09:30 - 11:00 Alexander Efremov - Introduction to Numerical Optimization <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)-->
+11:30 - 13:00 Workshop: Alexander Efremov - Determination of model structure <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)-->   
 14:00 - 17:00 Workshop: Angel Marchev, Jr. Artificial Neural Networks 
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-01 Artificial intelligence**  
-09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)  
-14:00 - 16:00 Mihail Motzev - Statistical Learning Networks [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Mihail_Motzev/readme.md)  
-16:30 - 17:30 Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Pavel_Nikolov/readme.md)  
+09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->  
+14:00 - 16:00 Mihail Motzev - Statistical Learning Networks <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Mihail_Motzev/readme.md)-->  
+16:30 - 17:30 Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Pavel_Nikolov/readme.md)-->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-02 Applications**  
-09:30 - 11:00 Atanas Atanassov - How to prepare comparative time series [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Atanas_Atanassov/readme.md)   
-11:30 - 13:00 Stanimir Kabaivanov - Anomaly detection in time series data [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)  
-14:00 - 15:30 Peter Nikolov - Smart Beta Strategies for various asset clаsses part 2 [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)  
+09:30 - 11:00 Atanas Atanassov - How to prepare comparative time series <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Atanas_Atanassov/readme.md)-->   
+11:30 - 13:00 Stanimir Kabaivanov - Anomaly detection in time series data <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)  
+14:00 - 15:30 Peter Nikolov - TBD <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-03 Applications**  
