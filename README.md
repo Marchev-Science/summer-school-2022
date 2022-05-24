@@ -74,13 +74,6 @@ Apart from concentrating during the online classes, the aproved participants sho
 * Petar Nikolov (petarnikolov1989@gmail.com)
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)
 * Yasen Kiprov (yasen.kiprov@gmail.com)
-<!--
-* Demir Tonchev (tonchev.demir@gmail.com)
-* Martin Boyanov (mboyanov@gmail.com)   
-* Metodi Nikolov (metodi.nikolov@gmail.com)
-* Mihail Motzev (mihail.motzev@wallawalla.edu)
-* Milen Chechev (milen.chechev@gmail.com)
--->   
 
 
 **Archives**:  
