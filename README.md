@@ -11,7 +11,7 @@
 
 **Official language**: For written materials - Bulgarian or English, for lectures - Bulgarian.
 
-**Application**: Deadline for application is July 15, 2022 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9). Only some applications would be approved. The approved will be notified by e-mail and will recieve further instructions.
+**Application**: Deadline for application is July 15, 2022 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9). Only some applications would be approved. The approved will be notified by e-mail and will recieve further instructions. Participation in the Summer school is free of charge.
 
 ## Main objectives
 * Creating an attitude for studying and applying scientific methods in research.
