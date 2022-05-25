@@ -52,7 +52,7 @@ Apart from concentrating during the online classes, the aproved participants sho
 * Jupyter Notebook [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
 <!--* spyder [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)-->
 * R [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
-<!--* R Studio [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)-->
+* R Studio [https://www.rstudio.com/products/rstudio/download/#download](https://www.rstudio.com/products/rstudio/download/#download)
 * Orange [https://orange.biolab.si/download/](https://orange.biolab.si/download/)
 <!--* KNIME [https://www.knime.com/downloads](https://www.knime.com/downloads)-->
 * Registration in Github [https://github.com](https://github.com)
@@ -93,18 +93,18 @@ before 18:30 Accomodation
 
 **2022-08-27 Fundamentals**  
 09:30 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
-14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Boyan_Markov/readme.md)-->  
+14:00 - 17:00 Workshop: TBD - Introduction to Python & Jupyter notebook <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Boyan_Markov/readme.md)-->  
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2022-08-28 Fundamentals**  
 09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
-14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to R & R Studio <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->  
+14:00 - 17:00 Workshop: TBD - Introduction to R & R Studio <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-08-29 Fundamentals**  
-09:30 - 10:30 Demir Tonchev - Introduction to probability <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Demir_Tonchev/readme.md)-->  
+09:30 - 10:30 TBD - Introduction to probability <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Demir_Tonchev/readme.md)-->  
 11:00 - 13:00 Kaloyan Haralampiev - Bayesian paradigm <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Kaloyan_Haralampiev/readme.md)--> 
-14:00 - 17:00 Workshop: Sergey Vichev - SQL Fundamentals <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Sergey_Vichev/readme.md)-->  
+14:00 - 17:00 Workshop: TBD - SQL Fundamentals <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Sergey_Vichev/readme.md)-->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-08-30 Fundamentals**  
@@ -115,7 +115,7 @@ before 18:30 Accomodation
 **2022-08-31 Machine Learning concepts**  
 09:30 - 11:00 Alexander Efremov - Introduction to Numerical Optimization <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)-->
 11:30 - 13:00 Workshop: Alexander Efremov - Determination of model structure <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)-->   
-14:00 - 17:00 Workshop: Angel Marchev, Jr. Artificial Neural Networks 
+14:00 - 17:00 Workshop: Angel Marchev, Jr. Artificial Neural Networks <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-01 Artificial intelligence**  
@@ -126,8 +126,8 @@ before 18:30 Accomodation
 
 **2022-09-02 Applications**  
 09:30 - 11:00 Atanas Atanassov - How to prepare comparative time series <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Atanas_Atanassov/readme.md)-->   
-11:30 - 13:00 Stanimir Kabaivanov - Anomaly detection in time series data <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)  
-14:00 - 15:30 Peter Nikolov - TBD <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
+11:30 - 13:00 Stanimir Kabaivanov - TBD <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)  
+14:00 - 17:00 Peter Nikolov - TBD <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-03 Applications**  
