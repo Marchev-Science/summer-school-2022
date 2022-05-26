@@ -1,8 +1,8 @@
 # Summer school on modelling and complex systems 2022
 
-![FEBA Faculty of Economics and Business Administration](/_img/687474703a2f2f7673696d2d636f6e662e696e666f2f323032302f696d672f737065616b6572392e706e67_small.png)
-![FDIBA German Engineering and Industrial Management Faculty](/_img/Sign-logo-83x73-1.png)
-![LENDIVO](/_img/Lendivo-Logo-Gradient-transparent-background-1000x600px_small.png)
+|![](/_img/687474703a2f2f7673696d2d636f6e662e696e666f2f323032302f696d672f737065616b6572392e706e67_small.png)|![](/_img/Sign-logo-83x73-1.png)|![](/_img/Lendivo-Logo-Gradient-transparent-background-1000x600px_small.png)|
+|-----|-----|-----|
+|FEBA Faculty of Economics and Business Administration|FDIBA German Engineering and Industrial Management Faculty|LENDIVO|
 
 
 
