@@ -1,5 +1,9 @@
 # Summer school on modelling and complex systems 2022
 
+![](http://vsim-conf.info/2020/img/speaker9.png) ![](https://fdiba.tu-sofia.bg/wp-content/uploads/2020/11/Sign-logo-83x73-1.png)
+
+
+
 ## Application
 **Acknowledgement**: This Summer school is partially funded by Science and research Fund at Sofia University (contract 80-10-126-16.05.2022). 
 
