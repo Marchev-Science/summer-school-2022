@@ -2,9 +2,9 @@
 
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <th><img src="/img/small_logo_feba.png"></th>
-    <th><img src="/img/small_logo_fdiba.png"></th>
-    <th><img src="/img/small_logo_lendivo.png"></th>
+    <th><img src="img/small_logo_feba.png"></th>
+    <th><img src="img/small_logo_fdiba.png"></th>
+    <th><img src="img/small_logo_lendivo.png"></th>
   </tr>
   <tr>
     <td>FEBA Faculty of Economics and Business Administration</td>
