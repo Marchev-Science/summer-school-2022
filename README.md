@@ -74,7 +74,7 @@ Apart from concentrating during the online classes, the aproved participants sho
 ## Contacts
 **Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)
 
-**Organizer**: Faculty of Economics, Sofia University. In partnership with Faculty of German Engineering Education and Industrial Management, Technical University - Sofia. For questions: angel.marchev@feb.uni-sofia.bg
+**Organizer**: Faculty of Economics and Business administration, Sofia University. In partnership with Faculty of German Engineering Education and Industrial Management, Technical University - Sofia and Lendivo. For questions: angel.marchev@feb.uni-sofia.bg
 
 **Lecturers**:
 * Angel Marchev Jr. (angel.marchev@feb.uni-sofia.bg)
