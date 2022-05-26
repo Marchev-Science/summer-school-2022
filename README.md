@@ -2,9 +2,9 @@
 
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <th><img src="/_img/687474703a2f2f7673696d2d636f6e662e696e666f2f323032302f696d672f737065616b6572392e706e67_small.png"></th>
-    <th><img src="/_img/Sign-logo-83x73-1.png"></th>
-    <th><img src="/_img/Lendivo-Logo-Gradient-transparent-background-1000x600px_small.png"></th>
+    <th><img src="/img/687474703a2f2f7673696d2d636f6e662e696e666f2f323032302f696d672f737065616b6572392e706e67_small.png"></th>
+    <th><img src="/img/Sign-logo-83x73-1.png"></th>
+    <th><img src="/img/Lendivo-Logo-Gradient-transparent-background-1000x600px_small.png"></th>
   </tr>
   <tr>
     <td>FEBA Faculty of Economics and Business Administration</td>
