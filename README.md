@@ -1,7 +1,7 @@
 # Summer school on modelling and complex systems 2022
 
 ![FEBA Faculty of Economics and Business Administration](http://vsim-conf.info/2020/img/speaker9.png)    
-![]([FDIBA German Engineering and Industrial Management Faculty](https://fdiba.tu-sofia.bg/wp-content/uploads/2020/11/Sign-logo-83x73-1.png)
+![FDIBA German Engineering and Industrial Management Faculty](https://fdiba.tu-sofia.bg/wp-content/uploads/2020/11/Sign-logo-83x73-1.png)
 
 
 
