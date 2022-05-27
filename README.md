@@ -118,7 +118,7 @@ before 18:30 Accomodation
 
 **2022-08-29 Fundamentals**  
 09:30 - 10:30 TBD - Introduction to probability <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Demir_Tonchev/readme.md)-->  
-11:00 - 13:00 Kaloyan Haralampiev - Bayesian paradigm <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Kaloyan_Haralampiev/readme.md)--> 
+11:00 - 13:00 Kaloyan Haralampiev - Bayesian paradigm <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Kaloyan_Haralampiev/readme.md)-->   
 14:00 - 17:00 Workshop: TBD - SQL Fundamentals <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Sergey_Vichev/readme.md)-->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
@@ -150,8 +150,8 @@ before 18:30 Accomodation
 14:00 - 17:00 TBD     
 <!--12:00 - 13:00 Yassen Kiprov - Google cloud user friendly ML resources [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Yasen_Kiprov/readme.md)  
 14:00 - 16:00 Workshop: Demir Tonchev - Object oriented data pre-processing with sklearn [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/DemirTonchev/DSS21)  
-16:30 - 17:30 Metodi Nikolov - Speeding up Python with Rust [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/MetodiNikolov/SummerSchool2021)-->  
-17:00 - 19:30 Workshop: Teamwork on case assignments  
+16:30 - 17:30 Metodi Nikolov - Speeding up Python with Rust [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/MetodiNikolov/SummerSchool2021)-->    
+17:00 - 19:30 Workshop: Teamwork on case assignments    
 
 **2022-09-04 Perspectives**  
 09:30 - 13:00 TBD
