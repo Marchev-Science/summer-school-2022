@@ -14,7 +14,7 @@
  </table>
 
 ## Application
-**Acknowledgement**: This Summer school is partially funded by Science and research Fund at Sofia University (contract 80-10-126-16.05.2022). 
+**Acknowledgement**: This Summer school is partially funded by ***Science and research Fund at Sofia University (contract 80-10-126-16.05.2022)***. 
 
 **Location**: [Bachkovo Monastery](http://www.bachkovskimanastir.com/bg/), Plovdiv Region, Bulgaria
 
@@ -24,7 +24,7 @@
 
 **Official language**: For written materials - Bulgarian or English, for lectures - Bulgarian.
 
-**Application**: Deadline for application is July 15, 2022 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9).    
+**Application**: Deadline for student application is July 15, 2022 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9).    
 Only some applications would be approved, who will be notified by e-mail on July 20 and will recieve further instructions.    
 Participation in the Summer school is free of charge.
 
@@ -37,7 +37,7 @@ Participation in the Summer school is free of charge.
 **Concept**: Intensive training in methods (not so much applications) through lectures, workshops and team work on projects. 
 
 ## Accomodation
-**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for . Everyone should arrive by 18:30, on 25 August, Friday, at the main entrance of the facility.   
+**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for optimizing the travel organization. Everyone should arrive by 18:30, on 25 August, Friday, at the main entrance of the Monastery.   
 
 **Accommodation**: The students are accommodated in pairs / threes / fours in a room in the Monestery. Accomodation costs BGN 20 per bed per night. Out of which **70% is covered by the organizers**. The layout of the rooms will be set by the organizers and can not be changed.   
 
