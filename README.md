@@ -141,7 +141,7 @@ before 18:30 Accomodation
 
 **2022-09-02 Applications**  
 09:30 - 11:00 Atanas Atanassov - How to prepare comparative time series <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Atanas_Atanassov/readme.md)-->   
-11:30 - 13:00 Stanimir Kabaivanov - TBD <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)  
+11:30 - 13:00 Stanimir Kabaivanov - TBD <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
 14:00 - 17:00 Peter Nikolov - TBD <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
