@@ -61,7 +61,7 @@ After 17:00 working on team assignment'
 Note: Participants who cannot take part fulltime and/or would not comply with the requirements can also join classes, but will not receive a certificate.  
 
 ## Technical requirements
-Apart from concentrating during the online classes, the aproved participants should make sure to be equipped with a **personal computer (not mobile device)** installed with:
+Apart from concentrating during the classes, the aproved participants should make sure to be equipped with a **personal computer (not mobile device)** installed with:
 * Python 3.8 [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
 * Anaconda [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
 * Jupyter Notebook [https://www.anaconda.com/products/individual](https://www.anaconda.com/download/)
