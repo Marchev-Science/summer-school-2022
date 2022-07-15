@@ -4,7 +4,7 @@
   <tr>
     <th><img src="img/small_logo_feba.png"></th>
     <th><img src="img/small_logo_fdiba.png"></th>
-    <th><img src="http://vsim-conf.info/img/speaker1.png" width="200"></th>
+    <th><img src="http://vsim-conf.info/img/speaker1.png" width="100"></th>
     <th><img src="img/small_logo_lendivo.png"></th>
   </tr>
   <tr>
