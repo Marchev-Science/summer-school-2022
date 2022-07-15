@@ -24,8 +24,8 @@
 
 **Official language**: For written materials - Bulgarian or English, for lectures - Bulgarian.
 
-**Application**: Deadline for student application is July 15, 2022 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9).    
-Only some applications would be approved, who will be notified by e-mail on July 20 and will recieve further instructions.    
+**Application**: **<span style="color: red;">EXTENDED</span>** Deadline for student application is July 20, 2022 by filling-in this application form: [https://forms.gle/r1RAMQjYJqWaWDib9](https://forms.gle/r1RAMQjYJqWaWDib9).    
+Only some applications would be approved, who will be notified by e-mail on July 25 and will recieve further instructions.    
 Participation in the Summer school is free of charge.
 
 ## Main objectives
