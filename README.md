@@ -4,11 +4,13 @@
   <tr>
     <th><img src="img/small_logo_feba.png"></th>
     <th><img src="img/small_logo_fdiba.png"></th>
+    <th><img src="http://vsim-conf.info/img/speaker1.png"></th>
     <th><img src="img/small_logo_lendivo.png"></th>
   </tr>
   <tr>
     <td>FEBA Faculty of Economics and Business Administration</td>
     <td>FDIBA German Engineering and Industrial Management Faculty</td>
+    <td>University for National and World Economy</td>
     <td>Lendivo</td>
   </tr>
  </table>
