@@ -8,10 +8,10 @@
     <th><img src="img/small_logo_lendivo.png"></th>
   </tr>
   <tr>
-    <td>FEBA Faculty of Economics and Business Administration</td>
-    <td>FDIBA German Engineering and Industrial Management Faculty</td>
-    <td>University for National and World Economy</td>
-    <td>Lendivo</td>
+    <td>FEBA Faculty of Economics and Business Administration<br><a href="https://feba.uni-sofia.bg/">https://feba.uni-sofia.bg/</a></td>
+    <td>FDIBA German Engineering and Industrial Management Faculty<br><a href="https://fdiba.tu-sofia.bg/">https://fdiba.tu-sofia.bg/</a></td>
+    <td>University for National and World Economy<br><a href="https://unwe.bg">https://unwe.bg</a></td>
+    <td>Lendivo<br><a href="https://lendivo.com/">https://lendivo.com/</a></td>
   </tr>
  </table>
 
