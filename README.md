@@ -78,7 +78,7 @@ Apart from concentrating during the classes, the aproved participants should mak
 ## Contacts
 **Facebook group**: [https://www.facebook.com/groups/223483361788013/](https://www.facebook.com/groups/223483361788013/)
 
-**Organizer**: Faculty of Economics and Business administration, Sofia University. In partnership with Faculty of German Engineering Education and Industrial Management, Technical University - Sofia and Lendivo. For questions: angel.marchev@feb.uni-sofia.bg
+**Organizer**: Faculty of Economics and Business administration, Sofia University. In partnership with Faculty of German Engineering Education and Industrial Management, Technical University - Sofia, University of National and World Econmy, and Lendivo. For questions: angel.marchev@feb.uni-sofia.bg
 
 **Lecturers**:
 * Angel Marchev Jr. (angel.marchev@feb.uni-sofia.bg)
@@ -110,7 +110,7 @@ before 18:30 Accomodation
 
 **2022-08-27 Fundamentals**  
 09:30 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
-14:00 - 17:00 Workshop: TBD - Introduction to Python & Jupyter notebook <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Boyan_Markov/readme.md)-->  
+14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Boyan_Markov/readme.md)-->  
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2022-08-28 Fundamentals**  
@@ -156,6 +156,7 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Teamwork on case assignments    
 
 **2022-09-04 Perspectives**  
+09:00 - 09:30 - Checking out of the rooms
 09:30 - 13:00 TBD
 <!--09:30 - 10:30 Boryana Bogdanova - Human role in AI [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)  
 10:30 - 11:30 Martin Boyanov - Implicit Data: Video Game Recommendations [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Martin_Boyanov/readme.md)      
