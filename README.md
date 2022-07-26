@@ -84,13 +84,12 @@ Apart from concentrating during the classes, the aproved participants should mak
 * Angel Marchev Jr. (angel.marchev@feb.uni-sofia.bg)
 * Angel Marchev Sr. (angel_marchev@yahoo.co.uk)
 * Alexander Efremov (aefremov@gmail.com)
-* Atanas Atanassov (atanassov@econometrica.bg)
-* Boryana Bogdanova (bpelova@gmail.com)   
+* Boryana Pelova (bpelova@gmail.com)   
 * Kaloyan Haralampiev (k_haralampiev@hotmail.com)
 * Pavel Nikolov (pavelnnikolov@gmail.com)
 * Petar Nikolov (petarnikolov1989@gmail.com)
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)
-* Yasen Kiprov (yasen.kiprov@gmail.com)
+
 
 
 **Archives**:  
@@ -121,7 +120,7 @@ before 18:30 Accomodation
 **2022-08-29 Fundamentals**  
 09:30 - 10:30 TBD - Introduction to probability <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Demir_Tonchev/readme.md)-->  
 11:00 - 13:00 Kaloyan Haralampiev - Bayesian paradigm <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Kaloyan_Haralampiev/readme.md)-->   
-14:00 - 17:00 Workshop: TBD - SQL Fundamentals <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Sergey_Vichev/readme.md)-->  
+14:00 - 17:00 Workshop: TBD - TBD <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Sergey_Vichev/readme.md)-->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-08-30 Fundamentals**  
@@ -132,34 +131,31 @@ before 18:30 Accomodation
 **2022-08-31 Machine Learning concepts**  
 09:30 - 11:00 Alexander Efremov - Introduction to Numerical Optimization <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)-->   
 11:30 - 13:00 Workshop: Alexander Efremov - Determination of model structure <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)-->   
-14:00 - 17:00 Workshop: Angel Marchev, Jr. Artificial Neural Networks <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->  
+14:00 - 17:00 Workshop: TBD - TBD <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->  
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
-**2022-09-01 Artificial intelligence**  
+**2022-09-01 Time series**  
+09:30 - 11:00 Boryana Pelova - Time series basics <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Atanas_Atanassov/readme.md)-->   
+11:30 - 13:00 Boryana Pelova - Wavelet analysis <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
+14:00 - 17:00 Peter Nikolov - Analytics workflow <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
+17:30 - 19:30 Workshop: Teamwork on case assignments  
+
+**2022-09-02 Artificial Neural Networks**  
+09:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->  
+14:00 - 15:30 Mihail Motzev - Statistical Learning Networks <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Mihail_Motzev/readme.md)-->  
+16:00 - 17:30 Workshop: TBD - Artificial Neural Networks
+17:30 - 19:30 Workshop: Teamwork on case assignments  
+
+**2022-09-03 Self-organmization & adaptation**  
 09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->  
-14:00 - 16:00 Mihail Motzev - Statistical Learning Networks <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Mihail_Motzev/readme.md)-->  
-16:30 - 17:30 Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Pavel_Nikolov/readme.md)-->  
-17:30 - 19:30 Workshop: Teamwork on case assignments  
-
-**2022-09-02 Applications**  
-09:30 - 11:00 Atanas Atanassov - How to prepare comparative time series <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Atanas_Atanassov/readme.md)-->   
-11:30 - 13:00 Stanimir Kabaivanov - TBD <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
-14:00 - 17:00 Peter Nikolov - TBD <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
-17:30 - 19:30 Workshop: Teamwork on case assignments  
-
-**2022-09-03 Applications**  
-09:30 - 13:00 TBD    
-14:00 - 17:00 TBD     
-<!--12:00 - 13:00 Yassen Kiprov - Google cloud user friendly ML resources [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Yasen_Kiprov/readme.md)  
-14:00 - 16:00 Workshop: Demir Tonchev - Object oriented data pre-processing with sklearn [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/DemirTonchev/DSS21)  
-16:30 - 17:30 Metodi Nikolov - Speeding up Python with Rust [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/MetodiNikolov/SummerSchool2021)-->    
+14:00 - 17:00 Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Pavel_Nikolov/readme.md)-->     
 17:00 - 19:30 Workshop: Teamwork on case assignments    
 
 **2022-09-04 Perspectives**  
 09:00 - 09:30 - Checking out of the rooms
-09:30 - 13:00 TBD
-<!--09:30 - 10:30 Boryana Bogdanova - Human role in AI [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)  
-10:30 - 11:30 Martin Boyanov - Implicit Data: Video Game Recommendations [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Martin_Boyanov/readme.md)      
-12:00 - 13:00 Milen Chechev - ML Lifecycle and productionization [video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Milen_Chechev/readme.md)-->    
-14:00 - 17:00 Conference - presentation of the solutions to the case assignments <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
-16:00 - 16:30 Closing ceremony  
+09:30 - 10:30 Pavel Tsankov - Statistical analysis of financial networks
+10:30 - 11:30 Petko Ruskov - Monetizing your research <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Martin_Boyanov/readme.md)-->      
+12:00 - 12:45 A word from our partners: Unicredit Bulbank     
+12:45 - 13:30 A word from our partners: Lendivo     
+14:30 - 17:00 Conference - presentation of the solutions to the case assignments <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
+17:00 - 17:30 Closing ceremony  
