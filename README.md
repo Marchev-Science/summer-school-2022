@@ -114,7 +114,7 @@ before 18:30 Accomodation
   
 **2022-08-28 Fundamentals**  
 09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1)-->  
-14:00 - 17:00 Workshop: TBD - Introduction to R & R Studio <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->  
+14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to R & R Studio <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-08-29 Fundamentals**  
