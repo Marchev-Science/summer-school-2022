@@ -141,7 +141,7 @@ before 18:30 Accomodation
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-02 Artificial Neural Networks**  
-09:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->  
+09:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->    
 14:00 - 15:30 Mihail Motzev - Statistical Learning Networks <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Mihail_Motzev/readme.md)-->  
 16:00 - 17:30 Workshop: TBD - Artificial Neural Networks   
 17:30 - 19:30 Workshop: Teamwork on case assignments  
@@ -152,7 +152,7 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Teamwork on case assignments    
 
 **2022-09-04 Perspectives**  
-09:00 - 09:30 - Checking out of the rooms
+09:00 - 09:30 - Checking out of the rooms   
 09:30 - 10:30 Pavel Tsankov - Statistical analysis of financial networks
 10:30 - 11:30 Petko Ruskov - Monetizing your research <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](https://github.com/Marchev-Science/summer-school-2021/tree/main/Martin_Boyanov/readme.md)-->      
 12:00 - 12:45 A word from our partners: Unicredit Bulbank     
