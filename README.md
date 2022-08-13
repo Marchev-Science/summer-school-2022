@@ -118,9 +118,9 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-08-29 Fundamentals**  
-09:30 - 10:30 TBD - Introduction to probability <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Demir_Tonchev/readme.md)-->  
+09:30 - 10:30 Demir Tonchev - Introduction to probability <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Demir_Tonchev/readme.md)-->  
 11:00 - 13:00 Kaloyan Haralampiev - Bayesian paradigm <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Kaloyan_Haralampiev/readme.md)-->   
-14:00 - 17:00 Workshop: TBD - TBD <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Sergey_Vichev/readme.md)-->  
+14:00 - 17:00 Workshop: Demir Tonchev - Introduction to Bayesian modeling <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Sergey_Vichev/readme.md)-->  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-08-30 Fundamentals**  
