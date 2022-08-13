@@ -85,6 +85,7 @@ Apart from concentrating during the classes, the aproved participants should mak
 * Angel Marchev Sr. (angel_marchev@yahoo.co.uk)
 * Alexander Efremov (aefremov@gmail.com)
 * Boryana Pelova (bpelova@gmail.com)   
+* Demir Tonchev (tonchev.demir@gmail.com)  
 * Kaloyan Haralampiev (k_haralampiev@hotmail.com)
 * Pavel Nikolov (pavelnnikolov@gmail.com)
 * Petar Nikolov (petarnikolov1989@gmail.com)
