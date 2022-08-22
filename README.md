@@ -1,17 +1,38 @@
 # Summer school on modelling and complex systems 2022
 
+Organized by
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <th><img src="img/small_logo_feba.png"></th>
     <th><img src="img/small_logo_fdiba.png"></th>
     <th><img src="http://vsim-conf.info/img/speaker1.png" width="100"></th>
-    <th><img src="img/small_logo_lendivo.png"></th>
-  </tr>
+   </tr>
   <tr>
     <td>FEBA Faculty of Economics and Business Administration<br><a href="https://feba.uni-sofia.bg/">https://feba.uni-sofia.bg/</a></td>
     <td>FDIBA German Engineering and Industrial Management Faculty<br><a href="https://fdiba.tu-sofia.bg/">https://fdiba.tu-sofia.bg/</a></td>
     <td>University for National and World Economy<br><a href="https://unwe.bg">https://unwe.bg</a></td>
+  </tr>
+ </table>
+
+Partners
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <th><img src="img/small_logo_unicredit.png"></th>
+    <th><img src="img/small_logo_lendivo.png"></th>
+  </tr>
+  <tr>
+    <td>Unicredit Bulbank<br><a href=""></a></td>
     <td>Lendivo<br><a href="https://lendivo.com/">https://lendivo.com/</a></td>
+  </tr>
+ </table>
+
+Associate Partners
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <th><img src="img/logo-black-th-edge.png" width="100"></th>
+  </tr>
+  <tr>
+    <td>The Edge<br><a href="https://theedge.solutions/">https://theedge.solutions/</a></td>
   </tr>
  </table>
 
