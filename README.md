@@ -18,11 +18,11 @@ Organized by
 Partners
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <th><img src="img/small_logo_unicredit.png"></th>
+    <th><img src="img/UCB_logo_CMYK.jpg" width="100"></th>
     <th><img src="img/small_logo_lendivo.png"></th>
   </tr>
   <tr>
-    <td>Unicredit Bulbank<br><a href=""></a></td>
+    <td>Unicredit Bulbank<br><a href="https://www.unicreditbulbank.bg/">https://www.unicreditbulbank.bg/</a></td>
     <td>Lendivo<br><a href="https://lendivo.com/">https://lendivo.com/</a></td>
   </tr>
  </table>
