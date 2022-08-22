@@ -1,5 +1,6 @@
 # Summer school on modelling and complex systems 2022
 
+<center>
 Organized by
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
@@ -35,6 +36,7 @@ Associate Partners
     <td>The Edge<br><a href="https://theedge.solutions/">https://theedge.solutions/</a></td>
   </tr>
  </table>
+</center>
 
 ## Application
 **Acknowledgement**: This Summer school is partially funded by ***Science and research Fund at Sofia University (contract 80-10-126-16.05.2022)***. 
