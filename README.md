@@ -155,7 +155,7 @@ before 18:30 Accomodation
 **2022-08-31 Machine Learning concepts**  
 09:30 - 11:00 Alexander Efremov - Introduction to Numerical Optimization <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)-->   
 11:30 - 13:00 Workshop: Alexander Efremov - Determination of model structure <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)-->   
-14:00 - 17:00 Workshop: Peter Nikolov - Analytics workflow <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->   
+14:00 - 17:00 Workshop: TBD - TBD (in English) <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->   
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-01 Time series**  
