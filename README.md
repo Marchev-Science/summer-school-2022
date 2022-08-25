@@ -62,7 +62,7 @@ Participation in the Summer school is free of charge.
 **Concept**: Intensive training in methods (not so much applications) through lectures, workshops and team work on projects. 
 
 ## Accomodation
-**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for optimizing the travel organization. Everyone should arrive by 18:30, on 25 August, Friday, at the main entrance of the Monastery.   
+**Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for optimizing the travel organization. Everyone should arrive by **18:30, on 26 August, Friday**, at the main entrance of the Monastery.   
 
 **Accommodation**: The students are accommodated in pairs / threes / fours in a room in the Monestery. Accomodation costs BGN 40 per bed per night. Out of which **85% is covered by the organizers**. The layout of the rooms will be set by the organizers and can not be changed.   
 
