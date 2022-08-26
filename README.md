@@ -109,9 +109,12 @@ Apart from concentrating during the classes, the aproved participants should mak
 * Alexander Efremov (aefremov@gmail.com)
 * Boryana Pelova (bpelova@gmail.com)   
 * Demir Tonchev (tonchev.demir@gmail.com)  
+* Georgi Kirov (geo.kirov@gmail.com)  
 * Kaloyan Haralampiev (k_haralampiev@hotmail.com)
 * Pavel Nikolov (pavelnnikolov@gmail.com)
+* Pavel Tsankov (p_tsankov@yahoo.fr)    
 * Petar Nikolov (petarnikolov1989@gmail.com)
+* Petko Ruskov (petkor@fmi.uni-sofia.bg)  
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)
 
 
@@ -155,7 +158,7 @@ before 18:30 Accomodation
 **2022-08-31 Machine Learning concepts**  
 09:30 - 11:00 Alexander Efremov - Introduction to Numerical Optimization <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)-->   
 11:30 - 13:00 Workshop: Alexander Efremov - Determination of model structure <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Alexander_Efremov/readme.md)-->   
-14:00 - 17:00 Workshop: TBD - TBD (in English) <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->   
+14:00 - 17:00 Workshop: Georgi Kirov - Heuristics for practical linear convex and nonconvex optimization (in English) <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->   
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-01 Time series**  
@@ -167,7 +170,7 @@ before 18:30 Accomodation
 **2022-09-02 Artificial Neural Networks**  
 09:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Angel_Marchev_Jr/readme.md)-->    
 14:00 - 15:30 Mihail Motzev - Statistical Learning Networks <!--[video](https://youtube.com/playlist?list=PLX9ryRl9v7BB4Cjh9VivtOTLyMHcOFfu1), [materials](/Mihail_Motzev/readme.md)-->  
-16:00 - 17:30 Workshop: TBD - Artificial Neural Networks   
+16:00 - 17:30 Workshop: Angel Marchev, Jr. - Artificial Neural Networks   
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-03 Self-organmization & adaptation**  
