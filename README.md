@@ -70,10 +70,10 @@ Participation in the Summer school is free of charge.
 
 **Daily schedule**:  
 09:30 - 13:00 Lectures in the classroom  
-13:00 - 14:00 Lunch brake  
+13:00 - 14:00 Lunch brеak  
 14:00 - 17:00 Workshops in the classroom   
 After 17:00 working on team assignment'   
-21:00 Monastery doors close   
+20:00 Monastery doors close   
 'The classroom could be used untill late, but no loud noises permitted.
 
 ## Certification
