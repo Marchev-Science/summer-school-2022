@@ -124,7 +124,7 @@ Apart from concentrating during the classes, the aproved participants should mak
 [Summer School on Modeling and Complex Systems 2021](https://marchev-science.github.io/summer-school-2021/)  
 
 ## Cases
-The cases for this year's Summer school will be [revieled here...](cases.md) at the start of the Summer school. 
+The cases for this year's Summer school are [revieled here...](cases.md) at the start of the Summer school. 
 
 ## Programme
 (subject to change)  
