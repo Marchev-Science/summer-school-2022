@@ -136,7 +136,7 @@ before 18:30 Accomodation
 
 **2022-08-27 Fundamentals**  
 09:30 - 13:00 Opening session: Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (Video Conference)   
-14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook [materials](/python_bobby/README.md)    
+14:00 - 17:00 Workshop: Boyan Markov - Introduction to Python & Jupyter notebook [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/python_bobby/)    
 17:00 - 19:30 Workshop: Explaining the cases    
   
 **2022-08-28 Fundamentals**  
