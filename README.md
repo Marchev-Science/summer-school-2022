@@ -141,7 +141,7 @@ before 18:30 Accomodation
   
 **2022-08-28 Fundamentals**  
 09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Video Conference)   
-14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to R & R Studio   
+14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to R & R Studio [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/marchev/)  
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-08-29 Fundamentals**  
