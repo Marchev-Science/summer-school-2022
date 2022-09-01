@@ -162,16 +162,15 @@ before 18:30 Accomodation
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-01 Time series**  
-09:30 - 11:00 Boryana Pelova - Time series basics    
-11:30 - 13:00 Boryana Pelova - Wavelet analysis   
+09:30 - 11:00 Boryana Pelova - Time series basics [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/pelova/)   
+11:30 - 13:00 Boryana Pelova - Wavelet analysis [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/pelova/)   
 14:00 - 17:00 Peter Nikolov - Analytics workflow (Video Conference)   
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-02 Artificial Neural Networks**  
 09:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks     
 14:00 - 15:30 Mihail Motzev - Statistical Learning Networks (Video Conference)  
-16:00 - 17:30 Workshop: Angel Marchev, Jr. - Artificial Neural Networks   
-17:30 - 19:30 Workshop: Teamwork on case assignments  
+16:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-03 Self-organmization & adaptation**  
 09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization   
