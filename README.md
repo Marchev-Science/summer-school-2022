@@ -1,6 +1,9 @@
 # Summer school on modelling and complex systems 2022
 
 <center>
+<img src="img/snimka_2022.jpg" width="700">
+
+  
 Organized by
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
