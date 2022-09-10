@@ -161,8 +161,8 @@ before 18:30 Accomodation
 17:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-08-31 Machine Learning concepts**  
-09:30 - 11:00 Alexander Efremov - Introduction to numerical optimization    
-11:30 - 13:00 Workshop: Alexander Efremov - Approaches for variable selection    
+09:30 - 11:00 Alexander Efremov - Introduction to numerical optimization [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/efremov/)       
+11:30 - 13:00 Workshop: Alexander Efremov - Approaches for variable selection [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/efremov/)       
 14:00 - 17:00 Workshop: Georgi Kirov - Heuristics for practical linear convex and nonconvex optimization (online)    
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
@@ -173,13 +173,13 @@ before 18:30 Accomodation
 17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-02 Artificial Neural Networks**  
-09:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks     
-14:00 - 15:30 Mihail Motzev - Statistical Learning Networks (Video Conference)  
+09:30 - 13:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/kabaivanov/)       
+14:00 - 15:30 Mihail Motzev - Statistical Learning Networks (Video Conference) [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/motzev/)     
 16:00 - 19:30 Workshop: Teamwork on case assignments  
 
 **2022-09-03 Self-organmization & adaptation**  
 09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization   
-14:00 - 17:00 Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization      
+14:00 - 17:00 Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  [materials](https://github.com/Marchev-Science/summer-school-2022/tree/main/nikolov/)        
 17:00 - 19:30 Workshop: Teamwork on case assignments    
 
 **2022-09-04 Perspectives**  
