@@ -1,4 +1,4 @@
-©Case 1 Documentation  
+Case 1 Documentation  
 1.	Step 1 Exploring the data run on Jupyter with 'SC_data_new.csv'  
 2.	Step 2 Quick & dirty run on  Jupyter with 'SC_data_new.csv'  
 3.	Experimenting with other methods run on Jupyter with 'SC_data_new.csv' and 'SC_data_try4.csv'  
