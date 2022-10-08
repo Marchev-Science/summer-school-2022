@@ -10,8 +10,8 @@
 Organized by
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <th><img src="https://github.com/Marchev-Science/summer-school-2022/blob/main/img/small_logo_feba.png"></th>
-    <th><img src="https://github.com/Marchev-Science/summer-school-2022/blob/main/img/small_logo_fdiba.png"></th>
+    <th><img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/small_logo_feba.png"></th>
+    <th><img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/small_logo_fdiba.png"></th>
     <th><img src="http://vsim-conf.info/img/speaker1.png" width="100"></th>
    </tr>
   <tr>
@@ -24,8 +24,8 @@ Organized by
 Partners
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <th><img src="https://github.com/Marchev-Science/summer-school-2022/blob/main/img/UCB_logo_CMYK.jpg" width="200"></th>
-    <th><img src="https://github.com/Marchev-Science/summer-school-2022/blob/main/img/small_logo_lendivo.png"></th>
+    <th><img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/UCB_logo_CMYK.jpg" width="200"></th>
+    <th><img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/small_logo_lendivo.png"></th>
   </tr>
   <tr>
     <td>Unicredit Bulbank<br><a href="https://www.unicreditbulbank.bg/">https://www.unicreditbulbank.bg/</a></td>
@@ -36,7 +36,7 @@ Partners
 Associate Partners
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
-    <th><img src="https://github.com/Marchev-Science/summer-school-2022/blob/main/img/logo-black-th-edge.png" width="200"></th>
+    <th><img src="https://media.githubusercontent.com/media/Marchev-Science/summer-school-2022/main/img/logo-black-th-edge.png" width="200"></th>
   </tr>
   <tr>
     <td>The Edge<br><a href="https://theedge.solutions/">https://theedge.solutions/</a></td>
