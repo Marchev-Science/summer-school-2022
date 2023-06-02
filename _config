@@ -1,2 +1,12 @@
-theme: jekyll-theme-leap-day
+# Site settings
+title: Summer School on modeling and complex systems 2022
+# email: angel.marchev@feb.uni-sofia.bg
+description: 26 August - 04 September, Bachkovo Monastery
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://marchev-science.github.io/summer-school-2022/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: marchev-games
+github_username:  angel-marchev
 
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-leap-day
